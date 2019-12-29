@@ -159,14 +159,10 @@ export default {
                   component: './products/allProducts',
                 },
                 {
-                  name: 'add-products',
-                  path: '/products/allProduct/:id',
-                  component: './products/addProduct',
-                },
-                {
-                  name: 'revised-products',
-                  path: '/products/revisedProducts',
-                  component: './products/revisedProducts',
+                  name: '类别',
+                  icon: 'smile',
+                  path: '/products/class',
+                  component: './products/class',
                 },
                 {
                   name: 'inventory',
