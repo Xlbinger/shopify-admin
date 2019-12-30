@@ -37,14 +37,39 @@
  - [ ] Order
     - [o] All 
     - [ ] Drafts
-    - [ ] Abandoned
+    - [o] Abandoned
  - [ ] Products
     - [o] All products
-    - [ ] Transfers
+    - [ ] class
     - [ ] Inventory
- - [ ] Customers
+ - [o] Customers
 
 ### 每周进度
+
+#### 第三周
+
+>许丽斌:  
+>   > 完成了[Products](https://Xlbinger.github.io/shopify-admin/#/products/)
+>   > 页面的部分数据过滤功能；实现了排序和分页。
+
+
+>王金升:  
+>   > 完成了[All orders](https://Xlbinger.github.io/shopify-admin/#/order/)
+>   > 页面的部分数据过滤功能；实现了排序和分页。
+
+>侯慧超:  
+>   >基本完成了功能[Customers](https://Xlbinger.github.io/shopify-admin/#/customers/)
+
+>黄润:  
+>   > 测试已完成功能
+
+>郭甜甜:
+>   > 基本完成了Customers原型的制作
+
+>白静:  
+>   > 基本完成了Customers原型的制作  
+
+***
 
 #### 第二周
 
@@ -58,7 +83,7 @@
 >   > 页面的部分数据过滤功能；实现了排序和分页。
 
 >侯慧超:  
->   >完成了部分功能[Customers](https:// Xlbinger.github.io/shopify-admin/#/customers/all/)
+>   >完成了部分功能[Customers](https://Xlbinger.github.io/shopify-admin/#/customers/)
 
 >黄润:  
 >   > 测试已完成功能
