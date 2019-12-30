@@ -58,7 +58,7 @@
 >   > 页面的部分数据过滤功能；实现了排序和分页。
 
 >侯慧超:  
->   >完成了部分功能[Customers](https:// Xlbinger.github.io/shopify-admin/#/customers/all/)
+>   >完成了部分功能[Customers](https:// Xlbinger.github.io/shopify-admin/#/customers/)
 
 >黄润:  
 >   > 测试已完成功能
