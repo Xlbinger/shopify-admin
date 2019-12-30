@@ -62,7 +62,7 @@ class Customer extends Component {
     },
     {
       title: '地址',
-      dataIndex: 'last_name',
+      dataIndex: 'default_address',
       render: (val, record) => (val==undefined?"/ /":`${record.default_address.province} ${record.default_address.country}`),
     },
     {
