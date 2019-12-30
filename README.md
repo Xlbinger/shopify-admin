@@ -100,15 +100,15 @@
 
 >许丽斌:  
 >   > 立项，分配任务，并把项目代码Shopify-admin托管至GitHub。
->   >  完成了[Products](https://Xlbinger.github.io/shopify-admin/#/products/allProducts)
+>   >  完成了[Products](https://Xlbinger.github.io/shopify-admin/#/products/)
 >   > 页面的数据获取和展示。  
 
 >王金升:  
->   >完成了[All orders](https:// Xlbinger.github.io/shopify-admin/#/order/all)
+>   >完成了[All orders](https://Xlbinger.github.io/shopify-admin/#/order/)
 >   > 页面的数据获取和展示。 
 
 >侯慧超:  
->   >完成了部分功能[Customers](https:// Xlbinger.github.io/shopify-admin/#/customers/all/)
+>   >完成了部分功能[Customers](https://Xlbinger.github.io/shopify-admin/#/customers/)
 
 >黄润:  
 >   > 测试已实现的功能
