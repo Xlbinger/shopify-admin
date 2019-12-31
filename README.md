@@ -64,7 +64,7 @@
 >   > 测试已完成功能
 
 >郭甜甜:
->   > 基本完成了Customers原型的制作
+>   > 基本完成了Customers原型的制作[原型图地址https://epfdm9.axshare.com](https://epfdm9.axshare.com)  密码：123456
 
 >白静:  
 >   > 基本完成了Customers原型的制作  
