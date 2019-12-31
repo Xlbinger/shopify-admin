@@ -136,8 +136,8 @@ export default {
                 {
                   name: 'draft',
                   icon: 'smile',
-                  path: '/order/draft',
-                  component: './order/draft',
+                  path: '/order/draft/create',
+                  component: './order/draft/create',
                 },
                 {
                   path: '/order/draft/create',
