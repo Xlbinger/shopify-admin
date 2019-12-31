@@ -21,27 +21,27 @@
 | 步骤  |  正常操作 | 正常操作  | 异常操作  |  预计效果 | 图片  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |  所有订单 |  点击 | 跳转到所有订单界面  | 一直点  |  界面不动 |![](https://github.com/Xlbinger/shopify-admin/blob/master/img/1.png)  |
-|  订单号  |  输入订单号 |  显示查询到的订单 |一直点   | 界面不动  |   ![](img\2.png)|
-|  使用状态|  选一个 | 显示符合条件的订单  | 无  |   不显示筛选后的订单，显示全部订单| ![](img\3.png)  |
-|  订单号和使用状态 |  输入条件 |  显示按条件查询后的订单 | 乱输入  | 找不到订单 |  ![](img\4.png) |
-|  重置 |  点击   | 恢复到所有订单界面  |  一直点 | 界面不变  | ![](img\9.png)  |
-|  下一页按钮  | 点击下一页  |  跳转到下一页 | 疯狂点击  | 一直跳到下一页直至最后一页  | ![](img\5.png)  |
-|  添加订单 | 点击  |  跳转到新建草稿页 | 疯狂点击  |  无 |  ![](img\6.png) |
-|  草稿 | 点击  | 跳转到草稿页  | 一直点  |  页面不动 |  ![](img\7.png) |
-|  弃单 |  点击 | 跳转到弃单页  | 一直点  | 页面不动  | ![](img\8.png)  |     
+|  订单号  |  输入订单号 |  显示查询到的订单 |一直点   | 界面不动  |   ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/2.png)|
+|  使用状态|  选一个 | 显示符合条件的订单  | 无  |   不显示筛选后的订单，显示全部订单| ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/3.png)  |
+|  订单号和使用状态 |  输入条件 |  显示按条件查询后的订单 | 乱输入  | 找不到订单 |  ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/4.png) |
+|  重置 |  点击   | 恢复到所有订单界面  |  一直点 | 界面不变  | ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/9.png)  |
+|  下一页按钮  | 点击下一页  |  跳转到下一页 | 疯狂点击  | 一直跳到下一页直至最后一页  | ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/5.png)  |
+|  添加订单 | 点击  |  跳转到新建草稿页 | 疯狂点击  |  无 |  ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/6.png) |
+|  草稿 | 点击  | 跳转到草稿页  | 一直点  |  页面不动 |  ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/7.png) |
+|  弃单 |  点击 | 跳转到弃单页  | 一直点  | 页面不动  | ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/8.png)  |     
 #### 4.1.2
 #### 产品
 | 步骤  |  正常操作 | 正常操作  | 异常操作  |  预计效果 | 图片  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 所有商品  |  点击所有商品 |  显示所有商品页面 |  一直点击所有商品 | 页面不变  |  ![](img\a.png) |
-|  products |  选一个 |  商品排序根据选项发生改变 | 无  |  商品排序没有发生改变 |  ![](img\b.png) |
-|  Inventory | 选一个  | 商品排序根据选项发生改变  | 无  |  商品排序没有发生改变 |  ![](img\c.png) |
-|  下一页按钮 | 点击下一页  | 跳转到下一页  | 疯狂点击  |  一直跳到下一页直至最后一页 |  ![](img\d.png) |  
+| 所有商品  |  点击所有商品 |  显示所有商品页面 |  一直点击所有商品 | 页面不变  |  ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/a.png) |
+|  products |  选一个 |  商品排序根据选项发生改变 | 无  |  商品排序没有发生改变 |  ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/b.png) |
+|  Inventory | 选一个  | 商品排序根据选项发生改变  | 无  |  商品排序没有发生改变 |  ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/c.png) |
+|  下一页按钮 | 点击下一页  | 跳转到下一页  | 疯狂点击  |  一直跳到下一页直至最后一页 |  ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/d.png) |  
 #### 4.1.3
 #### 客户 
 | 步骤  |  正常操作 | 正常操作  | 异常操作  |  预计效果 | 图片  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 客户  |  点击 |  跳转到客服界面 | 一直点击客户  |界面不变   | ![](img\e.png)  |
+| 客户  |  点击 |  跳转到客服界面 | 一直点击客户  |界面不变   | ![](https://github.com/Xlbinger/shopify-admin/blob/master/img/e.png)  |
 ### 5建议
 #### 一.细心
 ##### 软件测试工程师并不需要写太多的代码，但是作为软件质量的把关者，在进行软件测试工作时要十分的细心，因为稍有一点粗心就有可能漏掉一些重大的bug，造成软件质量不过关。严重的甚至会为团队甚至公司造成重大损失。
