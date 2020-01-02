@@ -64,11 +64,11 @@ class AdvancedSearchForm extends React.Component {
           }}
         >
           <Col md={8} sm={24}>
-            <FormItem label="Search">
-              {getFieldDecorator('query')(<Input placeholder="Search Products" />)}
+            <FormItem label="查找">
+              {getFieldDecorator('query')(<Input placeholder="输入商品信息" />)}
             </FormItem>
           </Col>
-          <Col md={8} sm={24}>
+          {/* <Col md={8} sm={24}>
             <FormItem label="Availability">
               {getFieldDecorator('published_status')(
                 <Select
@@ -83,7 +83,7 @@ class AdvancedSearchForm extends React.Component {
                 </Select>,
               )}
             </FormItem>
-          </Col>
+          </Col> */}
 
           <Col md={8} sm={24}>
             <div
@@ -98,7 +98,7 @@ class AdvancedSearchForm extends React.Component {
                 }}
               >
                 <Button type="primary" htmlType="submit">
-                  query
+                  查询
                 </Button>
                 <Button
                   style={{
@@ -106,16 +106,16 @@ class AdvancedSearchForm extends React.Component {
                   }}
                   onClick={this.handleFormReset}
                 >
-                  reset
+                  重置
                 </Button>
-                <a
+                {/* <a
                   style={{
                     marginLeft: 8,
                   }}
                   onClick={this.toggleForm}
                 >
                   expand <Icon type="down" />
-                </a>
+                </a> */}
               </div>
             </div>
           </Col>
@@ -182,8 +182,8 @@ class AdvancedSearchForm extends React.Component {
                   }}
                 >
                   <Option value="">Select a value</Option>
-                  <Option value="xuzyy">xuzyy</Option>
-                  <Option value="zyl">zyl</Option>
+                  <Option value="xulb">xulb</Option>
+                  <Option value="xlb">xlb</Option>
                 </Select>,
               )}
             </FormItem>
@@ -198,7 +198,7 @@ class AdvancedSearchForm extends React.Component {
                   }}
                 >
                   <Option value="">Select a value</Option>
-                  <Option value="tttt">tttt</Option>
+                  <Option value="tttt"></Option>
                   <Option value="ttttt">ttttt</Option>
                 </Select>,
               )}

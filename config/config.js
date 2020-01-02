@@ -179,8 +179,14 @@ export default {
             {
               name: '顾客',
               icon: 'smile',
-              path: '/customers',
-              component: './customers/all',
+              path: '/customer',
+              component: './customer',
+              routes: [
+                {
+                  path: '/customer/new',
+                  component: './customer/new',
+                },
+              ]
             },
             // {
             //   path: '/dashboard',

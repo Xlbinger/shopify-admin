@@ -79,11 +79,9 @@ class StandardTable extends Component {
     const { list = [], pagination = false } = data || {};
     const paginationProps = pagination
       ? {
-          defaultPageSize: 3,//默认的每页条数
-          showSizeChanger: true,//每页显示条数是否可改
-          pageSizeOptions: ['1','2','3','4','5',],
-          showQuickJumper: true,//是否可以快速跳转
-          hideOnSinglePage: false,//一页时是否隐藏分页
+          showSizeChanger: true,
+          showQuickJumper: false,
+          simple:true,
           ...pagination,
         }
       : false;
