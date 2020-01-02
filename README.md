@@ -24,7 +24,7 @@
     >项目原型制作
 * 郭甜甜
     >组员
-    >项目原型制作[原型图地址https://epfdm9.axshare.com](https://epfdm9.axshare.com)  密码：123456
+    >项目原型制作[原型图地址https://i1r9cc.axshare.com](https://i1r9cc.axshare.com)  密码：123456
 
 * 黄润
     >组员
@@ -65,7 +65,7 @@
 >   > 测试已完成功能
 
 >郭甜甜:
->   > 基本完成了Customers原型的制作[原型图地址https://epfdm9.axshare.com](https://epfdm9.axshare.com)  密码：123456
+>   > 基本完成了Customers原型的制作[原型图地址https://i1r9cc.axshare.com](https://i1r9cc.axshare.com)  密码：123456
 
 >白静:  
 >   > 基本完成了Customers原型的制作  
