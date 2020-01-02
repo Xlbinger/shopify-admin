@@ -180,8 +180,11 @@ export default {
               name: '顾客',
               icon: 'smile',
               path: '/customer',
-              component: './customer',
               routes: [
+                {
+                  path: '/customer',
+                  component: './customer',
+                },
                 {
                   path: '/customer/new',
                   component: './customer/new',
