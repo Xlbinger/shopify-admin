@@ -260,11 +260,11 @@ class Abandoned extends Component {
           }}
         >
           <Col md={8} sm={24}>
-            <FormItem label="规则名称">
+            <FormItem label="查询信息">
               {getFieldDecorator('name')(<Input placeholder="请输入" />)}
             </FormItem>
           </Col>
-          <Col md={8} sm={24}>
+          {/* <Col md={8} sm={24}>
             <FormItem label="使用状态">
               {getFieldDecorator('status')(
                 <Select
@@ -278,7 +278,7 @@ class Abandoned extends Component {
                 </Select>,
               )}
             </FormItem>
-          </Col>
+          </Col> */}
           <Col md={8} sm={24}>
             <span className={styles.submitButtons}>
               <Button type="primary" htmlType="submit">
@@ -292,14 +292,14 @@ class Abandoned extends Component {
               >
                 重置
               </Button>
-              <a
+              {/* <a
                 style={{
                   marginLeft: 8,
                 }}
                 onClick={this.toggleForm}
               >
                 展开 <Icon type="down" />
-              </a>
+              </a> */}
             </span>
           </Col>
         </Row>
