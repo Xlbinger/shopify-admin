@@ -24,10 +24,11 @@
     >项目原型制作
 * 郭甜甜
     >组员
-    >项目原型制作
+    >项目原型制作[原型图地址https://epfdm9.axshare.com](https://epfdm9.axshare.com)  密码：123456
+
 * 黄润
     >组员
-    >测试
+    >测试  [测试文档](https://github.com/Xlbinger/shopify-admin/blob/master/test.md)
 
 
 ## 项目进度
